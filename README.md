@@ -1,13 +1,13 @@
 PROJECT NAME -: IPL TOURNAMENT ANALYSIS AND ITS STRATEGY
 
 Table of Content-:
-->Demo Overview
-->Reason to Choose these Project
-->Pandas Methods which are used in these project
-->Graph which are used
-->Workdone
-->Conclusion 
-->Result
+*Demo Overview
+*Reason to Choose these Project
+*Pandas Methods which are used in these project
+*Graph which are used
+*Workdone
+*Conclusion 
+*Result
 
 
 1)Demo Overview-:
@@ -15,17 +15,17 @@ link-(https://drive.google.com/file/d/1S2GHGy_1Qv8PF8b8nCIboU-0DU--1bsZ/view?usp
 
 
 2)Reason to Choose these Project-:
-->Firstly I'm huge fan of Cricket and when it comes IPL it is most interesting and Entertaining Tournament.
-->Through this Dataset i want to conclude that the teams which are winning,
+*Firstly I'm huge fan of Cricket and when it comes IPL it is most interesting and Entertaining Tournament.
+*Through this Dataset i want to conclude that the teams which are winning,
  after my analysis i want to come to a strategy that what we should with respect to 
  toss win,toss decision,venue/hometown and result through overall analysis of IPL history.
 
 3)Pandas Methods which are used in these project-:
-->info(),desribe(),isna(),sum()
-->drop(),fillna()
-->value_counts(),groupby()
-->idxmax(),idxmin(),nlargest()
-->unique()
+*info(),desribe(),isna(),sum()
+*drop(),fillna()
+*value_counts(),groupby()
+*idxmax(),idxmin(),nlargest()
+*unique()
 
 4)Graph which are used-:
 ->For plotting i have used matplotlib.pyplot and seaborn
@@ -35,18 +35,18 @@ link-(https://drive.google.com/file/d/1S2GHGy_1Qv8PF8b8nCIboU-0DU--1bsZ/view?usp
 * Heat map
 
 5)Workdone-:
-->By using fillna i have filled all the Nan values in the dataset
-->By using value_counts i got a name and the count of players who got
+*By using fillna i have filled all the Nan values in the dataset
+*By using value_counts i got a name and the count of players who got
 player of the match ,same as teams also and i use it in Graphs also
-->By using idxmax and idxmin i got the top and bottom i.e highest and lowest 
+*By using idxmax and idxmin i got the top and bottom i.e highest and lowest 
 of the columns,were i have used it such has teams and players.
-->I used nlargest because by dataset is very big to visualize the data 
+*I used nlargest because by dataset is very big to visualize the data 
 properly on the following graph i have drawn the top (n) teams or players
 using it.
-->I used masking technique to know the information about tied matches.
-->I used groupby where i need the reference of some other column.
-->I have used unique method to neglect the copies
-->I used countplot where the data is more and to visualize it properly.
+*I used masking technique to know the information about tied matches.
+*I used groupby where i need the reference of some other column.
+*I have used unique method to neglect the copies
+*I used countplot where the data is more and to visualize it properly.
 
 
 6)Conclusion-:
