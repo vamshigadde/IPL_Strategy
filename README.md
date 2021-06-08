@@ -2,7 +2,7 @@ PROJECT NAME -: IPL TOURNAMENT ANALYSIS AND ITS STRATEGY
 
 Table of Content-:
 *Demo Overview
-**Reason to Choose these Project
+*Reason to Choose these Project
 *Pandas Methods which are used in these project
 *Graph which are used
 *Workdone
@@ -11,8 +11,7 @@ Table of Content-:
 
 
 1)Demo Overview-:
-link-(https://drive.google.com/file/d/1S2GHGy_1Qv8PF8b8nCIboU-0DU--1bsZ/view?usp=sharing)
-
+LINK-:(https://drive.google.com/file/d/1S2GHGy_1Qv8PF8b8nCIboU-0DU--1bsZ/view?usp=sharing)
 
 2)Reason to Choose these Project-:
 *Firstly I'm huge fan of Cricket and when it comes IPL it is most interesting and Entertaining Tournament.
@@ -50,15 +49,15 @@ using it.
 
 
 6)Conclusion-:
-->From above analysis i have concluded highest award of 'player of the game' is received by AB Devillers and J Theron.
-->Mumbai Indians is the team,won maximum times in the Ipl History i.e almost 15% and least time chennai super kings ie.13.24%.
-->Most of the teams won,when they won the toss and choice to field ->Match Result is declared mostly on the basis of runs ->less number of matches which are tied
-->winning percentage with their venue/home town is less then 15%,the highest % of wins with respect to venue the team is Kolkata Knight Riders
-->Outoff Total matches,these is the data on the basis of their result runs 366 tie 13 wickets 437 
-->on the Toss decision bat 320 field 496
+*From above analysis i have concluded highest award of 'player of the game' is received by AB Devillers and J Theron.
+*Mumbai Indians is the team,won maximum times in the Ipl History i.e almost 15% and least time chennai super kings ie.13.24%.
+*Most of the teams won,when they won the toss and choice to field ->Match Result is declared mostly on the basis of runs ->less number of matches which are tied
+*winning percentage with their venue/home town is less then 15%,the highest % of wins with respect to venue the team is Kolkata Knight Riders
+*Outoff Total matches,these is the data on the basis of their result runs 366 tie 13 wickets 437 
+*on the Toss decision bat 320 field 496
 
 7)RESULT-:
-->After my analysis the strategy of the team must be with respect to the toss,
+*After my analysis the strategy of the team must be with respect to the toss,
 if they win toss and in case if they choose to field the chances of winning the match is more(60-70)%.
-->When they will come to bat they should try to hold the wickets. ->Chances of winning with respect venue is very low,we'll not consider it.
-->In case if they losses toss,then at the time of batting make runs as much as possible by holding wickets also
+*When they will come to bat they should try to hold the wickets. ->Chances of winning with respect venue is very low,we'll not consider it.
+*In case if they losses toss,then at the time of batting make runs as much as possible by holding wickets also
