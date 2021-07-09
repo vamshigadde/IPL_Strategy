@@ -25,7 +25,7 @@ Table of Content-:
 
 
 1)Demo Overview-:
-LINK-:(https://drive.google.com/file/d/1S2GHGy_1Qv8PF8b8nCIboU-0DU--1bsZ/view?usp=sharing)
+LINK-:(https://drive.google.com/file/d/1yYyGCNZsCbXTTiDNAt-wFeRkbPbzhGYd/view?usp=sharing)
 
 2)Reason to Choose these Project-:
 *Firstly I'm huge fan of Cricket and when it comes IPL it is most interesting and Entertaining Tournament.
