@@ -73,7 +73,7 @@ LINK-:(https://drive.google.com/file/d/1yYyGCNZsCbXTTiDNAt-wFeRkbPbzhGYd/view?us
 6)Conclusion-:
 * From above analysis i have concluded highest award of 'player of the game' is received by AB Devillers and J Theron.
 
-* Mumbai Indians is the team,won maximum times in the Ipl History i.e almost 15% and least time chennai super kings ie.13.24%.
+* Mumbai Indians is the team,won maximum times in the Ipl History i.e almost 15%.
 
 * Most of the teams won,when they won the toss and choice to field 
 
@@ -92,6 +92,8 @@ LINK-:(https://drive.google.com/file/d/1yYyGCNZsCbXTTiDNAt-wFeRkbPbzhGYd/view?us
 * After my analysis the strategy of the team must be with respect to the toss,
   if they win toss and in case if they choose to field the chances of winning the match is more(60-70)%.
 
-* When they will come to bat they should try to hold the wickets. ->Chances of winning with respect venue is very low,we'll not consider it.
+* When they will come to bat they should try to hold the wickets.
+
+* Chances of winning with respect venue is very low,we'll not consider it.
 
 * In case if they losses toss,then at the time of batting make runs as much as possible by holding wickets also
